@@ -1,0 +1,1 @@
+This repository contains Zomato Website Clone using HTML and CSS.
